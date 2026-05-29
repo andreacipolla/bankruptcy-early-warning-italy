@@ -1,6 +1,6 @@
 # Corporate Bankruptcy Prediction — Italian Financial Challenge
 
-**LUISS University · Academic Year 2024/2025 · Group 18**  
+**LUISS University · Academic Year 2025/2026 · Group 18**  
 **Industry Partner: Expert.ai**
 
 ---
