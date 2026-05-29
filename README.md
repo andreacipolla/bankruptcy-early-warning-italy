@@ -278,4 +278,4 @@ Full version constraints are specified in `requirements.txt`.
 
 ## Academic Context
 
-This project was completed as part of the **Italian Financial Data Challenge**, a course assignment at **LUISS University** (Academic Year 2024/2025) run in collaboration with **Expert.ai**. The work was carried out by Group 18: Sofia Capriolo, Andrea Cipolla, Giorgio Vanini, and Arianna Cambi. All data is anonymized and used strictly for educational purposes; nothing in this repository should be interpreted as investment, credit, or financial advice. External code and resources are cited within the notebook cells where applicable.
+This project was completed as part of the **Italian Financial Data Challenge**, a course assignment at **LUISS University** (Academic Year 2025/2026) run in collaboration with **Expert.ai**. The work was carried out by Group 18: Sofia Capriolo, Andrea Cipolla, Giorgio Vanini, and Arianna Cambi. All data is anonymized and used strictly for educational purposes; nothing in this repository should be interpreted as investment, credit, or financial advice. External code and resources are cited within the notebook cells where applicable.
